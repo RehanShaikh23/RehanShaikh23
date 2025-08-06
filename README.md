@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RehanShaikh23
 - 👀 I’m interested in in learning new things every day and like to play outdoor games like football.
-- 🌱 I’m currently learning doing a full stack course and am also a first-year BCA student.
+- 🌱 I’m currently learning doing a full stack course and am also a second-year BCA student.
 - 💞️ I’m looking to collaborate on exciting projects and innovative solutions.
 - 📫 How to reach me This Is My email : [as9565704@gmail.com] 
 
