@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @RehanShaikh23
-- 👀 I’m interested in in learning new things every day and like to play outdoor games like football.
-- 🌱 I’m currently learning doing a full stack course and am also a second-year BCA student.
-- 💞️ I’m looking to collaborate on exciting projects and innovative solutions.
-- 📫 How to reach me This Is My email : [as9565704@gmail.com] 
 
+👋 Hi, I’m **Rehan Shaikh**
 
-<!---
-RehanShaikh23/RehanShaikh23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 💻 Passionate Software Engineer with a focus on building scalable systems using Java, Spring Boot, and AWS
+* 🎓 Completed Full Stack Development Course | Pursuing BCA (2nd Year)
+* 🚀 Interested in exploring cloud technologies, backend systems, and innovative software solutions**
+* 🤝 Open to collaboration on real-world projects** and impactful ideas
+* 📫 Reach me at: [rehanshaikh.dev@gmail.com](mailto:rehanshaikh.dev@gmail.com)
