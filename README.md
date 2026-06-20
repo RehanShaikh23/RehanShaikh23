@@ -17,7 +17,7 @@ BookHaven : an e-commerce app with a Spring Boot backend, React frontend, Postgr
 
  Right now
 
-Building a Content Script Generator — a SaaS tool that pulls from multiple AI models through OpenRouter, with an admin panel for managing users and subscriptions. Backend's Spring Boot, frontend's on Vercel.
+Build a Content Script Generator a SaaS tool that pulls from multiple AI models through OpenRouter, with an admin panel for managing users and subscriptions. Backend's Spring Boot, frontend's on Vercel. Active 26 Users
 
  Open to
 
